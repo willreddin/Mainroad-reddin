@@ -1076,7 +1076,6 @@ textarea {
 .widget__item {
 	display: block;
 	padding: 5px 0;
-	border-bottom: 1px dotted #ebebeb;
 }
 
 .widget__item:first-child {
