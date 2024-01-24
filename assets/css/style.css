@@ -53,7 +53,7 @@ body {
 	font-family: {{ $fontFamilyPrimary }};
 	font-size: 14px;
 	font-size: .875rem;
-	color: #fff;
+	color: #cbcbd3;
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #000;
