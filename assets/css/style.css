@@ -269,13 +269,13 @@ samp {
 
 pre,
 code {
-	background-color: #d1cfcf;
+	background-color: #f0ededcb;
 	border: 1px solid #afaeae;
 }
 
 code {
 	padding: 0 5px;
-	color: #575757;
+	color: #434343;
 }
 
 pre {
